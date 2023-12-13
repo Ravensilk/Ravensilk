@@ -35,3 +35,9 @@ A collaborative project management tool inspired by Trello and was made solely f
 ### Library Management System
 A library managemeny system that is built on Python under the Flask framework. It also uses Javascript and Bootstrap for its front-end. It uses data from the OpenLibrary API to get the details of the books that are uploaded to the system by an administrator. It lets a student request, borrow or return a book and keeps complete record of all the stages that a book goes through. This makes keeping record of all the books of a library easier to manage. 
 [Go to Repository](https://github.com/Ravensilk/CS50X-Library-Project)
+
+## Contact Me
+You can contact me for collaborations, questions or other inquiries at:
+#### Email: jankristopherclaviocabrera@gmail.com
+#### Website: [jancabrera.com](https://jancabrera.com/)
+#### LinkedIn: [Jan Cabrera](www.linkedin.com/in/jkcabrera)
