@@ -31,3 +31,7 @@ I am a licensed Civil Engineer that aspires to transition into the tech industry
 ### NeatTasks
 A collaborative project management tool inspired by Trello and was made solely for academic purposes. It is built on Python under the Django Framework, uses Javascript for its front-end and it also has an API Backend that was made on Django REST Framework. The data used by the website is extracted from a PostgreSQL database which is connected to by the Django ORM.
 [Go to Repository](https://github.com/Ravensilk/CS50W-Final-Project-NeatTasks)
+
+### Library Management System
+A library managemeny system that is built on Python under the Flask framework. It also uses Javascript and Bootstrap for its front-end. It uses data from the OpenLibrary API to get the details of the books that are uploaded to the system by an administrator. It lets a student request, borrow or return a book and keeps complete record of all the stages that a book goes through. This makes keeping record of all the books of a library easier to manage. 
+[Go to Repository](https://github.com/Ravensilk/CS50X-Library-Project)
