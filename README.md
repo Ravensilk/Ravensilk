@@ -2,7 +2,7 @@
 
 ## About me
 I am a licensed Civil Engineer that aspires to transition into the tech industry. I love to constantly upskill and continuously keep myself up-to-date with the current technologies being used. 
-
+`#ffffff` for light mode and `#000000`
 ## Skills
 - Fullstack Website Development
 - Software Development
