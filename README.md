@@ -41,7 +41,7 @@ A library managemeny system that is built on Python under the Flask framework. I
 
 ### Online Portfolio
 A showcase of my skills specifically in front-end development using Javascript, HTML and CSS. 
-[Go to Repository]([https://github.com/Ravensilk/CS50X-Library-Project](https://github.com/Ravensilk/Updated-Portfolio)
+[Go to Repository](https://github.com/Ravensilk/CS50X-Library-Project](https://github.com/Ravensilk/Updated-Portfolio)
 
 ## Contact Me
 You can contact me for collaborations, questions or other inquiries at:
